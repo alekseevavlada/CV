@@ -52,6 +52,10 @@
 
 - Исходные упаковки из папок **Clarinase 14 Repetabs** и **Claritine 20 Tablets** имеют степень схожести **64.18%** по метрике SSIM.
 
+### Общее сопоставление изображений упаковой 
+
+![output](https://github.com/user-attachments/assets/9c4848fb-5a0d-46f6-82af-042c69527833)
+
 ### Выделение Различий
 
 ![output](https://github.com/user-attachments/assets/87e6efaa-bccd-4cc8-b1fa-0c2682f3e0c5)
