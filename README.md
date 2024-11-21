@@ -1,4 +1,4 @@
-# Сравнение Изображений Упаковок "Clarinase 14 Repetabs" и "Claritine 20 Tablets"
+# Data Science (CV)
 
 ## Описание Проекта
 
